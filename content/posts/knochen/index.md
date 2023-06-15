@@ -3,6 +3,7 @@ title = "Knochen"
 date = "2023-06-15"
 draft = false
 pinned = false
+image = "clip_image001.jpg"
 description = ""
 +++
 {{<lead>}} 
