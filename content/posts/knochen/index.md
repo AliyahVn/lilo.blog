@@ -1,5 +1,5 @@
 +++
-title = "Ein Team, dass von Knochen und Schrauben lebt"
+title = "Ein Team, das von Knochen und Schrauben lebt"
 date = "2023-06-15"
 draft = false
 pinned = false
