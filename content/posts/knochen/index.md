@@ -4,7 +4,7 @@ date = "2023-06-15"
 draft = false
 pinned = false
 image = "clip_image001.jpg"
-description = ""
+description = "Am Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern."
 +++
 {{<lead>}} 
 Am Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern. 
