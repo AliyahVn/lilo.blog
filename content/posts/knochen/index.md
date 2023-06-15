@@ -3,11 +3,13 @@ title = "Knochen"
 date = "2023-06-15"
 draft = false
 pinned = false
-description = "{{<lead>}} \nAm Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern. \n{{<lead>}}"
+description = ""
 +++
+{{<lead>}} 
+Am Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern. 
+{{<lead>}}
 
-
-![Röntgenbild](clip_image001.jpg "Röntgenbild, Stütze für die Halswirbelsäule. Ein sogenannter “Fixateur interieur”. (Foto: Aliyah von Niederhäusern)")
+![Röntgenbild, Stütze für die Halswirbelsäule. Ein sogenannter “Fixateur interieur”. (Foto: Aliyah von Niederhäusern)](clip_image001.jpg "Röntgenbild, Stütze für die Halswirbelsäule. Ein sogenannter “Fixateur interieur”. (Foto: Aliyah von Niederhäusern)")
 
 Grosse Monitore zeigen Termine und Röntgenbilder an. Die Tastaturen klackern, man könnte meinen, jeder arbeitet selbstständig für sich, doch kaum hat jemand eine Frage gestellt, fachsimpeln sie alle miteinander und stecken die Köpfe zusammen.  Dies sind die Chirurgen des Inselspitals in Bern. Das Inselspital ist die Universitätsklinik von Bundesbern. Es ist ein freundschaftlicher und unkomplizierter Umgang untereinander im Büro, während in den Patientenzimmern Professionalität und Diskretion im Vordergrund stehen.
 
@@ -19,7 +21,7 @@ Im Inselspital Bern gibt es sogar eine orthopädische Forschungsabteilung mit zw
 
 Das Inselspital Bern arbeitet weltweit mit der Forschung zum Thema Hüftgelenken und Wirbelsäulen zusammen - was ist das Beste und was ist der neuste Trend? Dabei werden junge Hüften untersucht und geforscht, wie man diese schon früh behandeln kann, wenn sie denn nicht richtig funktionieren. Auch die Technologie hat im Berner Spital viel verändert, die Robotik ist ebenfalls ein bedeutendes Thema. Ob wohl in einigen Jahren nur noch Roboter operieren werden?
 
-![Büro](labor.jpg "Büro in der Forschungsabteilung (Foto: Anouk Gantenbein)")
+![Büro in der Forschungsabteilung (Foto: Anouk Gantenbein)](labor.jpg "Büro in der Forschungsabteilung (Foto: Anouk Gantenbein)")
 
 Für Prof. Siebenrock war es kein Problem, Deutschland zu verlassen und in der Schweiz zu arbeiten. Ihm wurde von einem befreundeten Arzt in Deutschland gesagt, dass die Schweiz fortgeschrittener sei in Chirurgie und der Medizin, als er sich in München beworben hatte. «Mir hat es nie eine Rolle gespielt, wo ich arbeite.», sagte Prof. Siebenrock, denn die Schweiz war gleich weit entfernt von seiner Heimat wie München. Auch viele andere Ärzte in der der orthopädischen Abteilung kommen aus Deutschland. Viele sind auch der Meinung, dass die flachere Hierarchie in der Schweiz ein Vorteil sei. So sei das Arbeiten eben ein Miteinander in der Schweiz. Auch die Arbeitszeiten seien hier besser geregelt.
 
