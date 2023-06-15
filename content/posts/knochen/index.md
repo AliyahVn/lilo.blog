@@ -5,10 +5,10 @@ draft = false
 pinned = false
 image = "clip_image001.jpg"
 description = "Am Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern."
+footnotes = "Autorinnen: Anouk Gantenbein, Aliyah von Niederhäusern"
 +++
-{{<lead>}} 
-Am Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern. 
-{{<lead>}}
+*Am Abend ins Bett gehen und nicht wissen, was einem am Morgen auf der Arbeit erwartet. Dies ist der Alltag der Orthopäden im Inselspital Bern.* 
+
 
 ![Röntgenbild, Stütze für die Halswirbelsäule. Ein sogenannter “Fixateur interieur”. (Foto: Aliyah von Niederhäusern)](clip_image001.jpg "Röntgenbild, Stütze für die Halswirbelsäule. Ein sogenannter “Fixateur interieur”. (Foto: Aliyah von Niederhäusern)")
 
