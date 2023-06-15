@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "Aliyah von Niederhäusern, Anouk Gantenbein"
 image = ""
 url = "/about/"
 +++
