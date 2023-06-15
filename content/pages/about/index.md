@@ -1,13 +1,9 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+Aliyah von Niederhäusern
 
-## My Name
-
-mail@example.org
-
-Here should be some info about me...
+aliyah.vonniederhaeusern@stud.gyminterlaken.ch
